@@ -1,0 +1,15 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1101.6,"scrollY":750},
+{"id":2,"expanded":false,"name":"intro","order":2,"parentId":0,"scrollX":1092,"scrollY":604},
+{"id":3,"expanded":false,"name":"room","order":3,"parentId":0,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":4,"expanded":true,"name":"outside 1","order":4,"parentId":0,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":5,"expanded":true,"name":"MAP005","order":6,"parentId":0,"scrollX":1078.6666666666667,"scrollY":604},
+{"id":6,"expanded":false,"name":"Normal Town","order":5,"parentId":4,"scrollX":1078.6666666666667,"scrollY":1274.6666666666667},
+{"id":7,"expanded":false,"name":"Mansion","order":8,"parentId":8,"scrollX":1078.6666666666667,"scrollY":1108},
+{"id":8,"expanded":true,"name":"House 1","order":7,"parentId":5,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":9,"expanded":false,"name":"House 2","order":9,"parentId":5,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":10,"expanded":false,"name":"Village House 1F","order":10,"parentId":5,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":11,"expanded":false,"name":"Village House 2F","order":11,"parentId":5,"scrollX":1089.3333333333333,"scrollY":596},
+{"id":12,"expanded":false,"name":"Weapon Shop","order":12,"parentId":5,"scrollX":1089.3333333333333,"scrollY":596}
+]
